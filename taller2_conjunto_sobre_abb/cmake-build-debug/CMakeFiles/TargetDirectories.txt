@@ -1,0 +1,16 @@
+/Users/familia/Desktop/taller_conjunto_sobre_abb/cmake-build-debug/CMakeFiles/install/strip.dir
+/Users/familia/Desktop/taller_conjunto_sobre_abb/cmake-build-debug/CMakeFiles/install.dir
+/Users/familia/Desktop/taller_conjunto_sobre_abb/cmake-build-debug/CMakeFiles/correrValgrind.dir
+/Users/familia/Desktop/taller_conjunto_sobre_abb/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/familia/Desktop/taller_conjunto_sobre_abb/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/familia/Desktop/taller_conjunto_sobre_abb/cmake-build-debug/CMakeFiles/list_install_components.dir
+/Users/familia/Desktop/taller_conjunto_sobre_abb/cmake-build-debug/CMakeFiles/install/local.dir
+/Users/familia/Desktop/taller_conjunto_sobre_abb/cmake-build-debug/CMakeFiles/correrTests.dir
+/Users/familia/Desktop/taller_conjunto_sobre_abb/cmake-build-debug/tests/google-test/CMakeFiles/install/local.dir
+/Users/familia/Desktop/taller_conjunto_sobre_abb/cmake-build-debug/tests/google-test/CMakeFiles/list_install_components.dir
+/Users/familia/Desktop/taller_conjunto_sobre_abb/cmake-build-debug/tests/google-test/CMakeFiles/rebuild_cache.dir
+/Users/familia/Desktop/taller_conjunto_sobre_abb/cmake-build-debug/tests/google-test/CMakeFiles/edit_cache.dir
+/Users/familia/Desktop/taller_conjunto_sobre_abb/cmake-build-debug/tests/google-test/CMakeFiles/install/strip.dir
+/Users/familia/Desktop/taller_conjunto_sobre_abb/cmake-build-debug/tests/google-test/CMakeFiles/install.dir
+/Users/familia/Desktop/taller_conjunto_sobre_abb/cmake-build-debug/tests/google-test/CMakeFiles/gtest_main.dir
+/Users/familia/Desktop/taller_conjunto_sobre_abb/cmake-build-debug/tests/google-test/CMakeFiles/gtest.dir
